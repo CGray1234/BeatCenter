@@ -2,6 +2,10 @@
 
 This is a project that may start up in the near future. 
 
+>**Note**  
+>This site has a chance of being archived. If you want to visit the site that I am currently working on, click
+>[here](https://cgray1234.github.io)
+
 This version of BeatCenter will be more robust in some aspects, such as:
 
  - A link that's easier to remember
